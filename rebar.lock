@@ -4,7 +4,7 @@
   1},
  {<<"cowlib">>,
   {git,"https://github.com/ninenines/cowlib",
-       {ref,"61821cee0e8272430c003cb2393244a836754b1a"}},
+       {ref,"f8d0ad7f19b5dddd33cbfb089ebd2e2be2a81a5d"}},
   1},
  {<<"folsom">>,
   {git,"https://github.com/boundary/folsom",
